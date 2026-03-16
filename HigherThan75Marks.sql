@@ -1,0 +1,1 @@
+Select Name From STUDENTS Where Marks > 75 Order By RIGHT(Name,3), ID;
